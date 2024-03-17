@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=my%20name%20is%20Nagyeom&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=fff&height=300&section=header&text=my%20name%20is%20Nagyeom&fontSize=40)
 
 
 
 ----
 [![2Nagyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Nagyeom&show_icons=true&theme=highcontrast)](https://github.com/2Nagyeom/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Nagyeom&layout=compact)](https://github.com/2Nagyeom/github-readme-stats)
 
 ### 🚀Tech Stack
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
